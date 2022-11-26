@@ -37,8 +37,10 @@ hijos [1].
 
 
 <center>
-# El Autor
+# El Resplandor
 </center>
+
+
 
 
 
