@@ -3,10 +3,13 @@ output_dir: "."
 
 navbar:
   title: "Análisis de Texto"
+  icon: fa-home
   left:
     - text: "Introducción"
-      icon: fa-home
       href: index.html
+      menu:
+      - text: "Autor"
+        href: autor.html
       
     - text: "Referencias"
       href: about.html
@@ -15,3 +18,4 @@ output:
   html_document:
     theme: darkly
     highlight: textmate
+    
