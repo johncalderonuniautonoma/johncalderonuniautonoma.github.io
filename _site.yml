@@ -1,0 +1,9 @@
+ame: "my-website"
+output_dir: "."
+navbar:
+  title: "Análisis de Texto"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
