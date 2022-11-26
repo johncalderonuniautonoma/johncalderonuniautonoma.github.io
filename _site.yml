@@ -10,9 +10,9 @@ navbar:
   - text: "Introducción"
     menu:
     - text: "Autor"
-      href: autor.rmd
+      href: autor.html
     
-  - text: About
+  - text: "Referencias"
     href: about.html
       
 output:

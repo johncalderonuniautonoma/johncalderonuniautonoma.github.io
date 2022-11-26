@@ -1,8 +1,11 @@
-
+<center>
 # Análisis de Texto por Jhonatan Manzano y John Calderón
 
 
 
+
+![](https://media.giphy.com/media/S8NUyzLTM2g42GeP3Q/giphy.gif){width=150% height=150%}
+</center>
 
 
 
