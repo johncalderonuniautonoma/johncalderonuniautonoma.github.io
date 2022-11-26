@@ -1,13 +1,16 @@
 <center>
-# Análisis de Texto por Jhonatan Manzano y John Calderón
+# Análisis de Texto
 
 
 
 
 ![](https://media.giphy.com/media/S8NUyzLTM2g42GeP3Q/giphy.gif){width=150% height=150%}
-</center>
 
 
+Análisis de los penúltimos capítulos de "El Resplandor" y "Doctor Sueño"
+Universidad Autonoma del Cauca
+Ciencia de Datos
+Jhonatan Manzano - John Calderón
 
 
 

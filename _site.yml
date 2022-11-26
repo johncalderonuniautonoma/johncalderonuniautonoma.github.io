@@ -11,6 +11,8 @@ navbar:
     menu:
     - text: "Autor"
       href: autor.html
+    - text: "El Resplandor"
+      href: el_resplandor.html
     
   - text: "Referencias"
     href: about.html
