@@ -1,11 +1,14 @@
-ame: "my-website"
+name: "my-website"
 output_dir: "."
+
 navbar:
   title: "Análisis de Texto"
   left:
-    - text: "Home"
+    - text: "Introducción"
+      icon: fa-home
       href: index.html
-    - text: "About"
+      
+    - text: "Referencias"
       href: about.html
       
 output:
