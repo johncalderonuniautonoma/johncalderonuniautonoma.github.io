@@ -2,7 +2,6 @@
 <center>
 # **El Resplandor**
 
-
 > **REDRUM**    
 > *Esa es la palabra que Danny había visto en el espejo. Y, aunque no sabía leer, entendió que era un mensaje de horror.*
 
@@ -18,6 +17,8 @@
 <center>
 ![Stephen King [3]](https://media.giphy.com/media/l41YuwS5IipGquPmM/giphy.gif){width=150% height=150%}
 </center>
+
+
 
 <font size = "6">
 **Personajes**    
@@ -126,7 +127,7 @@ de tiempo.
 5- Danny conoce a Dick Halloran y este, telepaticamente, le cuenta que comparte
 el mismo don que su abuela llamaba "el resplandor". Además, le dice que las
 cosas del Hotel no pueden lastimarlo pero que debe alejarse de  la **habitación
-"237"**. Antes de irse le recuerda que en cualquier momento podría comunicarse
+"217"**. Antes de irse le recuerda que en cualquier momento podría comunicarse
 con él por ayuda.
 ㅤ    
 ㅤ   
@@ -140,7 +141,7 @@ Jack.
 ㅤ   
 8- Jack empieza a tener pesadillas en las que asesina a su esposa e hijo, queda
 en estado de trance y tiene charlas con los fantasmas del lugar, incluyendo a 
-la mujer de la habitación 237.
+la mujer de la habitación 217.
 ㅤ    
 ㅤ   
 9- El Hotel posee por completo a Jack y en un primer ataque con un mazo Wendy 
@@ -153,7 +154,7 @@ destruído la moto de nieve y cortado los cables de las ocmunicaciones.
 ㅤ    
 ㅤ   
 11- Wendy se esconde con Danny en un baño mientras el fantasma de Delbert Grady,
-el antigüo cuidador lo libera y Jack empieza a buscarlos de nuevo. Poco tiempo
+el antigüo cuidador, lo libera y Jack empieza a buscarlos de nuevo. Poco tiempo
 antes, Danny contactó a Dick que se encontraba en Florida y este emprende el 
 viaje para salvarlos.
 ㅤ    

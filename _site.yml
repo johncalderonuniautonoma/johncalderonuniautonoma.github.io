@@ -13,6 +13,8 @@ navbar:
       href: autor.html
     - text: "El Resplandor"
       href: el_resplandor.html
+    - text: "Doctor Sueño"
+      href: doctor_sueño.html
     
   - text: "Referencias"
     href: about.html
