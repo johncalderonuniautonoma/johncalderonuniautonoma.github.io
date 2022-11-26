@@ -9,7 +9,7 @@ navbar:
   
   - text: "Introducción"
     menu:
-    - text: "Autor"
+    - text: "El Autor"
       href: autor.html
     - text: "El Resplandor"
       href: el_resplandor.html
