@@ -1,16 +1,22 @@
 <center>
-# Análisis de Texto
 
+<font size = "6">
+
+**Análisis de las Batallas Finales de "El Resplandor" y "Doctor Sueño"**
+
+**Universidad Autonoma del Cauca**
+
+**Ciencia de Datos**
+
+Jhonatan Manzano - John Calderón
+
+</font>
 
 
 
 ![](https://media.giphy.com/media/S8NUyzLTM2g42GeP3Q/giphy.gif){width=150% height=150%}
 
 
-Análisis de los penúltimos capítulos de "El Resplandor" y "Doctor Sueño"
-Universidad Autonoma del Cauca
-Ciencia de Datos
-Jhonatan Manzano - John Calderón
 
 
 
