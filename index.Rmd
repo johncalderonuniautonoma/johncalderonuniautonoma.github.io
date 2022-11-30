@@ -8,14 +8,16 @@
 
 **Ciencia de Datos**
 
-Jhonatan Manzano - John Calderón
-
 </font>
-
+Jhonatan Manzano - John Calderón
 
 
 ![](https://media.giphy.com/media/S8NUyzLTM2g42GeP3Q/giphy.gif){width=150% height=150%}
-
+Descubrir el comportamiento emocional de **"El Resplandor"** y **"Doctor Sueño"** en sus
+clímax considerando que, aunque uno es secuela del otro, tienen historias muy diferentes
+tomando apenas conceptos pasados y construyendo una nueva historia en este universo. Además,
+¿qué sentimientos se pueden detectar de obras de un autor que cada año publica una o dos
+obras?
 
 
 
