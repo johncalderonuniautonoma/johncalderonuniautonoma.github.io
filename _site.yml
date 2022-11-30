@@ -22,6 +22,9 @@ navbar:
   - text: "Análisis de Sentimiento"
     href: analisis_sentimiento_affin.html
     
+  - text: "Técnica PNL"
+    
+    
   - text: "Referencias"
     href: about.html
       
