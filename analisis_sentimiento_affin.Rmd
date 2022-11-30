@@ -1,0 +1,102 @@
+<center>
+# **Análisis de Sentimientos**
+</center>
+
+
+ㅤ    
+ㅤ   
+
+
+
+<font size = "4">
+
+
+<font size = "6">
+**Carga Emocional de los Textos**    
+</font>
+
+El valor del eje horizontal indica el número de la página, establecida en 
+secuencias consecutivas de 500 palabras, por lo que se puede ver cómo varía 
+la carga emocional según progresa el texto [17].
+
+<center>
+![](https://i.ibb.co/k09dm7M/carga-emocional-textos.png){width=150% height=150%}
+</center>
+
+
+ㅤ    
+ㅤ   
+
+
+
+<font size = "6">
+**Conteo de Contribución al Sentimiento**    
+</font>
+
+Este es el número de veces que aparecen las palabras de carga emocional de mayor
+frecuencia y el tipo de carga en las que se clasifican.
+
+<center>
+![](https://i.ibb.co/ckRHCRx/carga-emocional-palabras.png){width=150% height=150%}
+</center>
+
+
+ㅤ    
+ㅤ   
+
+
+
+<font size = "6">
+**Frecuencia de Sentimientos en los Documentos**    
+</font>
+
+En esta gráfica se puede evidenciar la frecuencia de sentimientos representado
+en las palabras.
+
+<center>
+![](https://i.ibb.co/Fmdxvjz/frecuencia-sentimientos-en-documentos.png){width=150% height=150%}
+</center>
+
+
+ㅤ    
+ㅤ   
+
+
+
+<font size = "6">
+**Nube de Palabras - Comparativa de Polaridades**    
+</font>
+
+En esta última gráfica tenemos una comparación de la polaridad de las palabras
+de los documentos.
+
+<center>
+![](https://i.ibb.co/VCD5TKm/nube-comparaci-n-polaridad.png){width=150% height=150%}
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

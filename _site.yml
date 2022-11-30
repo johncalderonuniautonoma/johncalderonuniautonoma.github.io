@@ -16,6 +16,12 @@ navbar:
     - text: "Doctor Sueño"
       href: doctor_sueño.html
     
+  - text: "Análisis Exploratorio"
+    href: analisis_exploratorio.html
+    
+  - text: "Análisis de Sentimiento"
+    href: analisis_sentimiento_affin.html
+    
   - text: "Referencias"
     href: about.html
       

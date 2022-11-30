@@ -1,0 +1,223 @@
+<center>
+# **Análisis Exploratorio**
+
+</center>
+
+<font size = "4">
+
+En esta primera etapa realizamos un análisis exploratorio de los datos que se
+trabajan, recordando que se están trabajando:
+
+- **El Resplandor**, Quinta Parte en adelante: **Cuestión de Vida o Muerte** (139 páginas)
+- **Doctor Sueño**, Tercera Parte en adelante: **Cuestiones de Vida o Muerte** (125 páginas)
+
+Una primera exploración de datos (después del preprocesamiento correspondiente)
+nos premite encontrar la siguiente información presentada:
+
+
+
+<font size = "6">
+**Nube de Palabras - El Resplandor**    
+</font>
+
+
+<center>
+```{r echo=FALSE}
+knitr::include_url("D:/Users/Usuario/Documents/Universidad/Ciencia de Datos/Trabajo Análisis de Texto y Sentimientos/nube_palabras_elresplandor.html")
+```
+</center>
+
+<center>
+[Nube de Palabras de El Resplandor](file:///D:/Users/Usuario/Documents/Universidad/Ciencia%20de%20Datos/Trabajo%20An%C3%A1lisis%20de%20Texto%20y%20Sentimientos/nube_palabras_elresplandor.html)
+</center>
+
+
+ㅤ    
+ㅤ   
+
+
+
+<font size = "6">
+**Frecuencia de Palabras - El Resplandor**    
+</font>
+
+De estas frecuencia podemos comprobar que las 3 frecuencias principales son:
+
+1. **Hallorann**: 298
+
+Apellido del cocinero del Hotel Overlook, le enseña a Danny lo que es el
+resplandor y acude a ayudarlos cuando el niño se lo pide.
+
+
+
+2. **Danny**: 257
+
+Es el protagonista, hijo de Jack y Wenddy Torrance. Tiene el resplandor.
+
+
+
+3. **Jack**: 245
+
+Es el padre de Danny. Alcohólico, despedido de su trabajo busca reconectarse con
+su familia, pero es poseído por el Hotel para asesinar a su hijo.
+
+
+
+
+
+<center>
+![](https://i.ibb.co/Hh2ZFqc/frecuencia-palabras-elresplandor.png){width=150% height=150%}
+</center>
+
+
+
+
+ㅤ    
+ㅤ   
+
+
+
+
+
+<font size = "6">
+**Nube de Palabras - Doctor Sueño**    
+</font>
+
+
+<center>
+```{r echo=FALSE}
+knitr::include_url("D:/Users/Usuario/Documents/Universidad/Ciencia de Datos/Trabajo Análisis de Texto y Sentimientos/nube_palabras_doctorsueno.html")
+```
+</center>
+
+<center>
+[Nube de Palabras de Doctor Sueño](file:///D:/Users/Usuario/Documents/Universidad/Ciencia de Datos/Trabajo Análisis de Texto y Sentimientos/nube_palabras_doctorsueno.html)
+</center>
+
+
+
+
+
+ㅤ    
+ㅤ   
+
+
+
+
+
+<font size = "6">
+**Frecuencia de Palabras - Doctor Sueño**    
+</font>
+
+De estas frecuencia podemos comprobar que las 3 frecuencias principales son:
+
+1. **Dan**: 392
+
+Danny se ha convertido en Dan Torrance, un adulto que bebe para mantener
+"apagado" su resplandor y que debe unirse a otras personas para salvar a
+una niña.
+
+
+
+2. **Abra**: 329
+
+La niña con el más fuerte resplandor conocido. Se comunica mentalmente con
+Dan y desafía al Nudo Verdadero.
+
+
+
+4. **Rose**: 199
+
+Rose la Chistera, actual líder del Nudo verdadero. Es una mujer de apariencía
+hermosa pero que cuando revela su verdadera forma solo muestra un enorme
+colmillo en su boca.
+
+
+
+
+
+<center>
+![](https://i.ibb.co/BKH1c7z/frecuencia-palabras-doctorsueno.png){width=150% height=150%}
+</center>
+
+
+
+ㅤ    
+ㅤ   
+
+
+<font size = "6">
+**Comparando Frecuencias**    
+</font>
+
+Haciendo una comparativa de estas gráficas se obtiene que:
+
+- En ambos casos las frecuencias más altas son nombre o apodos de personas.
+
+- En **Doctor Sueño** hay una mayor cantidad de personajes en comparación a 3 o 4 principales de **El Resplandor**
+
+- En ambos casos se encuentra entre las palabras con mayores frecuencias **verbos**
+
+<center>
+![](https://i.ibb.co/TW1nrMZ/comparacion-frecuencias.png){width=150% height=150%}
+</center>
+
+
+
+ㅤ    
+ㅤ   
+
+<font size = "6">
+**Correlación entre las Palabras**    
+</font>
+
+La correlación nos permite visualizar las similitudes entre las partes analizadas
+de **El Resplandor** y **Doctor Sueño**. Esta gráfica nos permite evidenciar la
+forma en la que Stephen King escribe los clímax de sus historias, en este caso,
+historias muy diferentes pero que no dejan de estar conectadas.
+
+
+<center>
+[![](https://i.ibb.co/7YTzBvJ/correlacion-palabras.png)](file:///D:/Users/Usuario/Documents/Universidad/Ciencia%20de%20Datos/Trabajo%20An%C3%A1lisis%20de%20Texto%20y%20Sentimientos/Archivos%20PDF%20An%C3%A1lisis%20de%20Texto/correlacion_palabras_interactivo.html)
+
+(Click el Gráfico Interactivo)
+</center>
+
+Calcudando de forma precisa cuántas palabras comunes tienen **El Resplandor** y
+**Doctor Sueño** en sus clímax, son: **2.833** palabras en común.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
